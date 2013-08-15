@@ -1,4 +1,8 @@
 # -*- coding: utf-8 -*-
+
+'''
+Dynamiczna implementacja dwumianu newtona.
+'''
 from exceptions import IOError
 
 def get_values(n=1,k=1):
