@@ -18,7 +18,6 @@ poprawną odpowiedzią jest
 2 20
 """
 
-import ipdb
 class GraphHasCycleError(Exception):
     pass
 
