@@ -18,7 +18,6 @@ poprawną odpowiedzią jest
 2 20
 """
 
-from curses.has_key import has_key
 import ipdb
 class GraphHasCycleError(Exception):
     pass
