@@ -20,7 +20,7 @@ class UnionFind(object):
     find - Wyznacza, w którym zbiorze jest dany element, pozwalając na sprawdzenie, czy dwa elementy są w tym samym zbiorze.
     union - Łączy dwa zbiory w jeden.
     Wyjaśnienie: 
-    
+    http://www.rafalnowak.pl/wiki/index.php?title=UNION_FIND
     '''
     __ITEMS = {} # mapowanie Item -> UFItem
     __root = None # tymczasowy korzeń drzewa 
