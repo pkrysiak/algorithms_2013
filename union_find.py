@@ -83,7 +83,6 @@ class UnionFind(object):
         Union. 
         Przyjmuje dwa argumenty typu Item. 
         Łączy dwa elementy wg ich rangi.
-        Ranga określa jaka maksymalnie jest wysokość drzewa.
         '''
         UFItem1 = self.find(Item1)
         UFItem2 = self.find(Item2)
